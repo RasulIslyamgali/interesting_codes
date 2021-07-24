@@ -1,6 +1,6 @@
 from turtle import *
 from time import sleep
-
+'''Код не мой. Взято из простора интернета. Попробуйте запускать у себя).'''
 # рисуем коронавирус
 
 color('green')
